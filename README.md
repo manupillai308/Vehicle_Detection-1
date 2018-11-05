@@ -4,10 +4,9 @@ An automated parking counter based on cctv footages for parking spots near you.
 
 ![detectedimage](/outputs/1.jpeg)
 
-![appscreens](/outputs/4.jpeg)
-![appscreens](/outputs/2.jpeg)
-![appscreens](/outputs/5.jpeg)
-![appscreens](/outputs/3.jpeg)
+<img src="/outputs/4.jpeg" alt="app screens" width="250" height="400"> <img src="/outputs/2.jpeg" alt="app screens" width="250" height="400">
+
+<img src="/outputs/5.jpeg" alt="app screens" width="250" height="400"> <img src="/outputs/3.jpeg" alt="app screens" width="250" height="400">
 
 ## Getting Started
 

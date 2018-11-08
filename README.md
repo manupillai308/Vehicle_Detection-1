@@ -35,15 +35,8 @@ The end to end stack of the software is deployed in heroku. (only the applicatio
 ## Built With
 
 * [OpenCV](https://opencv.org/)
-* [Android Studio](https://developer.android.com/studio/)
 * [Heroku](https://www.heroku.com/home)
 * [python](https://www.python.org/)
-
-## Authors
-
-* [**Manu S Pillai**](https://github.com/manupillai308)
-* [**Lovetesh**](https://github.com/loveteshh)
-* [**Rohit Kumar**](https://github.com/rohitkumar1999)
 
 ## Acknowledgments
 

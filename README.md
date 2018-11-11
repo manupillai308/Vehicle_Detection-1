@@ -31,8 +31,3 @@ The end to end stack of the software is deployed in heroku. (only the applicatio
 * [OpenCV](https://opencv.org/)
 * [Heroku](https://www.heroku.com/home)
 * [python](https://www.python.org/)
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
